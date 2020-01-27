@@ -7,6 +7,9 @@
 class Solution {
 public:
   std::string PrintHelloWorld();
+  std::string PrintName();
+  std::string PrintMajor();
+  std::string PrintInterests();
 };
 
 #endif
